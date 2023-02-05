@@ -1,0 +1,131 @@
+ 
+
+body{
+    
+    font-family:  helvetica;
+	background-image: url('j1.jpeg');
+	background-repeat: no-repeat;
+	backdrop-filter: blur(6px);
+	background-size: cover;
+	
+
+}
+#tab{
+    border-radius: 20px;
+    background: url(bg.png) ;
+    background-position: left top;
+    padding: 0px; 
+    width:100px;
+    height: 200px;
+	border:0px;
+    width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	border-spacing:10px;
+    
+}
+img.pic  {
+		  
+		  height:300px;
+          width:200px;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          
+}
+#name{
+  
+		   font-size:25px;
+		   text-align:center;
+		   font-style: italic;
+		   font-weight: bold;
+           color: hsl(0, 0%, 0%);
+	   }
+   
+td{
+	padding: 5px;
+}
+
+	   table#tab1{
+		   
+		   border:0px;
+		   
+	   }
+	    table#t{
+		   height:100px;
+		   text-align : left;
+	   }
+	   
+	    table#t,th{
+		  
+		   text-align : center;
+	   }
+	   #t{width:85%;
+		   margin-left:auto;
+		  margin-right:auto;
+		  
+		  border-spacing:0px;}
+	  
+	  .t1{
+		  background-color:#f2f2f2;
+          color: rgb(233, 237, 237);
+		   
+	   }
+      .t2{
+		  background-color:#FFE4E1;
+		   
+	   }
+	   
+	   #t3{
+		   background-color: rgb(247, 241, 241);
+		   color:#FF8C00;
+	   }
+	   .t4{
+	   	color: #e00e0e;
+		   font-weight: bold;
+	   }
+	   .t5{
+	   	color: #805100;
+	   }
+	   .list{
+    font-size : 25px;
+	font-weight: bold;
+       }
+       .listtype{
+    list-style-type:disc;
+       }
+	   a:hover{
+		background-color:#B0C4DE;
+       } 
+       .cs{
+    color: #d62a2a;
+    font-size: 25px;
+	font-weight: bold;
+       }
+       
+    ul{
+    color: #f3ecee;
+}
+.quote{
+    color:rgb(236, 11, 11);
+     font-size: 25px;
+	 font-weight: bold;
+	 margin-left: 1cm;
+	 
+}
+.saying{
+	margin-left: 1cm;
+	border-style: double;
+	text-align: center;
+    font-style: italic;
+     color:#f8f7f7;
+     font-size: 20px;
+	 font-weight: bold;
+}
+.websites{
+	margin-left: 1cm;
+    font-size: 25px;
+	font-weight: bold;
+    color:rgb(231, 8, 8);
+    
+}
